@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Pabalkar</h1>
 <h3 align="center">Enthusiastic to learn new skills!</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viciousButterfly&theme=radical&show_icons=true" alt="viciousbutterfly" /></p>
-<h5 align="center">Data Lover - Data Science is fun!</h5>
+<h5 align="center">Data Science - I Love to play with data</h5>
 <h5 align="center">Talk to me about Machine Learning & Artificial Intelligence</h5>
 <h5 align="center">Linux Explorer - Experimental, have broken my PC (fixed too!) and lost data :)</h5>
 <h3 align="center">Languages and Tools:</h3>
