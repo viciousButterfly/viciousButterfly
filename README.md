@@ -7,4 +7,4 @@ Enthusiastic to learn new skills and work on them!
 - 📫 Reach me: vaishnavisp13@gmail.com
 - ![](https://komarev.com/ghpvc/?username=viciousButterfly)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viciousButterfly&theme=synthwave&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viciousButterfly&theme=radical&show_icons=true)
