@@ -5,3 +5,5 @@ Enthusiastic to learn new skills and work on them!
 - 🌱 I’m currently persuing BTech in Computer Engineering.
 - 💞️ Open for any collaboration.
 - 📫 Reach me: vaishnavisp13@gmail.com
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
